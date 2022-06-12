@@ -1,4 +1,4 @@
-# eye_project
+# Eye Project
 The eyes on screen will follow your mouse.
 
 For future updates I would like to implement the eyes to blink everytime you click.
